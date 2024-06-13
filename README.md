@@ -6,7 +6,7 @@
 <p>Данный проект выполнен в учебных целях.</p>
 <ul>
   <li>Проект выполнен за: 5 дней</li>
-  <li>Код на GitHub:  </li>
+  <li>Код на GitHub: https://github.com/Realex001/Crypto-ReactJS.git  </li>
 </ul>
 
 <h1>Технологии:</h1>
