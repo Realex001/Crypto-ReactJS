@@ -13,6 +13,6 @@
 <p>ReactJS, Ant Design</p>
 
 <h1>Особенности:</h1>
-<p>Данный для работы с криптовалютой были взяты с сервиса <a href="https://openapi.coinstats.app/">openapi.coinstats</a>. 
-Для получения доступа 
+<p>Данные для работы с криптовалютой были взяты с сервиса <a href="https://openapi.coinstats.app/">openapi.coinstats</a>. 
+Для передачи данных между компонентами был использован context. 
 </p>
